@@ -1,7 +1,6 @@
-BSD 3-Clause License
+©  2021 NCSOFT Corporation & Korea University.  All rights reserved. 
 
-Copyright (c) 2022, NCSOFT
-All rights reserved.
+BSD 3-Clause License
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -27,3 +26,29 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+Any questions about our licensed work can be sent to opensource@ncsoft.com.
+
+This software uses Open Source Software (OSS). You can find the link for the source code of these open source projects, along with applicable license information, below.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Numpy
+https://www.numpy.org
+Copyright (c) 2005-2022, NumPy Developers. All rights reserved.
+BSD 3-Clause "New" or "Revised" License
+
+tensorboardX
+https://github.com/lanpa/tensorboardX
+Copyright (c) 2017 Tzu-Wei Huang
+MIT License
+
+transfer-learning-conv-ai 
+https://github.com/huggingface/transfer-learning-conv-ai  
+Copyright (c) 2019-present, HuggingFace Inc.
+MIT License
+
+Transformers
+https://github.com/huggingface/transformers
+Copyright 2018- The Hugging Face team. All rights reserved.
+Apache License 2.0
